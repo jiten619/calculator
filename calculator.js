@@ -2,7 +2,7 @@ let buffer = "0";
 let runningTotal = 0;
 let previousOperator = null;
 const screen = document.querySelector(".screen");
-
+// TODO:: remove
 
 function buttonClick(value){
   if(isNaN(parseInt(value))){
